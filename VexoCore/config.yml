@@ -1,0 +1,8 @@
+messages:
+  info_header: "Player Info"
+  username: "Username: {username}"
+  ping: "Ping: {ping}ms"
+  ip: "IP Address: {ip}"
+  location: "Location: {location}"
+  health: "Health: {health}"
+  experience: "Experience: {experience}"

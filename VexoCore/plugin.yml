@@ -1,0 +1,12 @@
+name: VexoCore
+version: 1.0.0
+api: 5.0.0
+main: VexoCore\Main
+commands:
+  vexo:
+    description: Displays player info
+    usage: /vexo
+    aliases: [info, playerinfo]
+  serverinfo:
+    description: Displays server statistics
+    usage: /serverinfo
